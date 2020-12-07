@@ -12,7 +12,9 @@ live demo: https://stackblitz.com/github/DanielPorfiriadis/petpack-frontend
 
 Clone petpack-backend: https://github.com/DanielPorfiriadis/petpack-backend
 
-install Angular CLI latest version
+install Angular CLI latest version: " npm install -g @angular/cli "
+
+with "ng version" you can see your current Angular version
 
 run "npm install"
 
