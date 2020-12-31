@@ -1,4 +1,4 @@
-# PetpackFrontend
+# Petpack Frontend
 
 Petpack social network, skg.code project
 
